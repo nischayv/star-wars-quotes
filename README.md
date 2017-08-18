@@ -18,7 +18,7 @@ In your program
 ```javascript
 
 const sw = require('star-wars-quotes')
-console.log(sw)
+console.log(sw())
 
 ```
 
