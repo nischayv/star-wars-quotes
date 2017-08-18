@@ -1,0 +1,5 @@
+# IDEA dependencies
+.idea
+
+# Node dependencies
+node_modules
