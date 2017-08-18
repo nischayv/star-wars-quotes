@@ -1,4 +1,4 @@
-export const obiwanQuotes = [
+const obiwanQuotes = [
   `You must do what you feel is right, of course.
     -Obi-Wan Kenobi`,
   `Mos Eisley Spaceport. You will never find a more wretched hive of scum and villainy. We must be cautious.
@@ -27,7 +27,7 @@ export const obiwanQuotes = [
     -Obi-Wan Kenobi`
 ]
 
-export const darthvaderQuotes = [
+const darthvaderQuotes = [
   `I find your lack of faith disturbing.
     -Darth Vader`,
   `The circle is now complete. When I left you, I was but the learner. Now I am the master.
@@ -50,7 +50,7 @@ export const darthvaderQuotes = [
     -Darth Vader`
 ]
 
-export const yodaQuotes = [
+const yodaQuotes = [
   `Do. Or do not. There is no try.
     -Yoda`,
   `You must unlearn what you have learned.
@@ -77,7 +77,7 @@ export const yodaQuotes = [
     -Yoda`
 ]
 
-export const lukeskywalkerQuotes = [
+const lukeskywalkerQuotes = [
   `I'll never turn to the Dark Side. You've failed, your highness. I am a Jedi, like my father before me.
     -Luke Skywalker`,
   `If there's a bright center to the universe, you're on the planet that it's farthest from.
@@ -90,7 +90,7 @@ export const lukeskywalkerQuotes = [
     -Luke Skywalker`
 ]
 
-export const hansoloQuotes = [
+const hansoloQuotes = [
   `Chewie...we're home.
     -Han Solo`,
   `Never tell me the odds.
@@ -111,7 +111,7 @@ export const hansoloQuotes = [
     -Han Solo`
 ]
 
-export const leiaQuotes = [
+const leiaQuotes = [
   `Help me, Obi-Wan Kenobi. You're my only hope.
     -Princess Leia Organa`,
   `Aren't you a little short for a stormtrooper?
@@ -124,7 +124,7 @@ export const leiaQuotes = [
     -Leia Organa`
 ]
 
-export const c3poQuotes = [
+const c3poQuotes = [
   `I suggest a new strategy, R2: let the Wookiee win.
     -C-3PO`,
   `We seem to be made to suffer. It's our lot in life.
@@ -137,7 +137,7 @@ export const c3poQuotes = [
     -C-3PO`
 ]
 
-export const emperorQuotes = [
+const emperorQuotes = [
   `Young fool... Only now, at the end, do you understand...
     -The Emperor`,
   `Your feeble skills are no match for the power of the Dark Side.
@@ -148,7 +148,7 @@ export const emperorQuotes = [
     -Darth Sidious`
 ]
 
-export const miscQuotes = [
+const miscQuotes = [
   `Many Bothans died to bring us this information.
     -Mon Mothma`,
   `Charming to the last. You don't know how hard I found it, signing the order to terminate your life.
@@ -165,7 +165,7 @@ export const miscQuotes = [
     -unknown`
 ]
 
-export default quotes = [
+module.exports = quotes = [
   obiwanQuotes,
   darthvaderQuotes,
   yodaQuotes,
