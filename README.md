@@ -1,5 +1,6 @@
 # star-wars-quotes
-https://travis-ci.org/nischayv/star-wars-quotes.svg?branch=master
+[![Build Status](https://travis-ci.org/nischayv/star-wars-quotes.svg?branch=master)](https://travis-ci.org/nischayv/star-wars-quotes)
+[![npm version](https://badge.fury.io/js/star-wars-quotes.svg)](https://badge.fury.io/js/star-wars-quotes)
 > Start your day with a Star Wars quote!!
 
 Star Wars quote generator node package
