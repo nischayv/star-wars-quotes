@@ -8,7 +8,7 @@ Star Wars quote generator node package
 
 Using npm
 ```
-$ npm install --save github-api-user
+$ npm install --save star-wars-quotes
 ```
 
 ## Usage
