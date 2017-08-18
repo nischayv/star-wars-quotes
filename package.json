@@ -1,6 +1,6 @@
 {
   "name": "star-wars-quotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Star Wars quote generator",
   "main": "index.js",
   "scripts": {
