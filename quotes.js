@@ -166,13 +166,13 @@ const miscQuotes = [
 ]
 
 module.exports = quotes = [
-  obiwanQuotes,
-  darthvaderQuotes,
-  yodaQuotes,
-  lukeskywalkerQuotes,
-  hansoloQuotes,
-  leiaQuotes,
-  c3poQuotes,
-  emperorQuotes,
-  miscQuotes
+  ...obiwanQuotes,
+  ...darthvaderQuotes,
+  ...yodaQuotes,
+  ...lukeskywalkerQuotes,
+  ...hansoloQuotes,
+  ...leiaQuotes,
+  ...c3poQuotes,
+  ...emperorQuotes,
+  ...miscQuotes
 ]
