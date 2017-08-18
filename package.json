@@ -1,0 +1,17 @@
+{
+  "name": "star-wars-quotes",
+  "version": "1.0.0",
+  "description": "Star Wars quote generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "star",
+    "wars",
+    "quotes",
+    "yoda"
+  ],
+  "author": "Nischay Venkatram",
+  "license": "MIT"
+}
